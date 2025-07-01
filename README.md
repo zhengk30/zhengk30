@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my hub!
 
 <!--
 **zhengk30/zhengk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 2025 plan
+* 15445 @CMU
+* 6.824 @MIT
+
+### Contact
+helloworld.zheng@mail.utoronto.ca

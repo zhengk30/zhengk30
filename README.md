@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 2025 plan
 * 15445 @CMU
-* 6.824 @MIT
+*  6.824 @MIT
 
 ### Contact
 helloworld.zheng@mail.utoronto.ca

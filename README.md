@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm interested in database systems and research topics in storage systems, and I'm actively exploring trending topics. I hate to take on the dirty work of writing a personal website as I have a terrible aesthetic sense. If you'd like to get in touch with me, please feel free to drop me an email (I prefer written communication as I believe writing prompts one to take time to phrase things they want to say carefully rather than throw clueless garbage).
+I am interested in computer systems in general, with a particular focus on high-performance data processing systems, especially where networking and storage systems meet. Currently, I am exploring emerging hardware resources and applying them to achieve better performance and scalability for large-scale data processing systems. If you'd like to get in touch with me, please feel free to drop me an email (I prefer written communication as I believe writing prompts one to take time to phrase things they want to say carefully rather than throw clueless garbage).
 
 ### Contact
 helloworld.zheng@mail.utoronto.ca

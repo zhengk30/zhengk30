@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am interested in computer systems in general, with a particular focus on high-performance data processing systems, especially where networking and storage systems meet. Currently, I am exploring emerging hardware resources and applying them to achieve better performance and scalability for large-scale data processing systems. If you'd like to get in touch with me, please feel free to drop me an email (I prefer written communication as I believe writing prompts one to take time to phrase things they want to say carefully).
-
-### Languages I speak
-C (native/bilingual) || C++ (native/bilingual) || Python (professional) || Java (fluent) || Rust (elementary)
+I am interested in computer systems in general, with a particular focus on high-performance data processing systems, especially where networking and storage systems meet. Currently, I am exploring emerging hardware resources and applying them to achieve better performance and scalability for large-scale data processing systems. If you'd like to get in touch with me, please feel free to drop me an email.
 
 ### Contact
-Work: helloworld.zheng@mail.utoronto.ca || Personal: realkaiwenzheng@outlook.com
+Work: helloworld.zheng@mail.utoronto.ca
+Personal: realkaiwenzheng@outlook.com
